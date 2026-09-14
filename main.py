@@ -1,5 +1,5 @@
 def main():
-    print("test-repo initial commit")
+    print("test-repo second commit")
 
 
 if __name__ == "__main__":
